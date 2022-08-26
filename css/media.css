@@ -1,0 +1,321 @@
+@media(max-width:1440px){
+    .header-bg-icon1 {
+        left: -30px !important;
+    }
+    .started_title-h2 {
+        padding-left: 110px !important;
+    }
+    .contact_header-icon1 {
+        left: -30px !important;
+    }
+    .contact_header-icon2{
+        bottom: -47px !important;
+    }
+}
+@media (max-width: 1366px){
+    .started_title-h2 {
+        padding-left: 65px !important;
+    }
+}
+@media(max-width:1280px){
+    .started_title-h2 {
+        padding-left: 95px !important;
+    }
+}
+@media(max-width:1280px){
+    .started_title-h2 {
+        padding-left: 160px !important;
+    }
+}
+@media (max-width: 1080px){
+    .header_title-h1 {
+        font-size: 85px;
+        line-height: 90px;
+        max-width: 100%;
+    }
+    .header_title-text {
+        font-size: 16px;
+        line-height: 28px;
+        max-width: 100%;
+    }
+    .teams_title-box-right {
+        max-width: 100%;
+    }
+    .teams {
+        padding: 110px 0;
+    }
+    .teams_bg-icon{
+        max-width: 70px;
+    }
+    .started_title-h2 {
+        padding-left: 105px !important;
+    }
+    .footer{
+        padding-top: 25px !important;
+    }
+    .header {
+        padding-top: 110px;
+        padding-bottom: 200px;
+    }
+    .clients{
+        padding-top: 0 !important;
+    }
+    .clients_bg-icon1{
+        max-width: 150px;
+    }
+}
+@media(max-width:1024px){
+    .header-bg-icon1{
+        max-width: 0;
+    }
+    .header-bg-icon2{
+        right: 310px !important;
+    }
+    .started-bg-icon{
+        max-width: 175px;
+    }
+}
+@media(max-width:950px){
+    .started_title-h2 {
+        padding-left: 20px !important;
+    }
+}
+@media(max-width:769px){
+    .navbar-light .navbar-toggler-icon{
+        background: url(../img/manu-icon.png) no-repeat center/cover !important;
+        height: 23px;
+    }
+    .header {
+        text-align: center;
+    }
+    .header_title-h1 {
+        font-size: 64px;
+        line-height: 56px;
+        max-width: 100%;
+        width: 380px;
+        margin: auto;
+        padding-bottom: 26px;
+    }
+    .header_title-text {
+        font-size: 15px;
+        line-height: 28px;
+        width: 457px;
+        margin: auto;
+    }
+    .header-bg-icon2 {
+        right: 205px !important;
+    }
+    .allmain_title {
+        font-size: 32px;
+        line-height: 32px;
+    }
+    .teams_title-h2 {
+        padding-bottom: 64px;
+    }
+    .teams_bg-icon {
+        right: 0px !important;
+        top: 0;
+        max-width: 100%;
+    }
+    .teams_title-box-right {
+        max-width: 478px;
+    }
+    .componies_title-h2 {
+        max-width: 475px;
+    }
+    .componies_row{
+        gap: 30px;
+    }
+    .started{
+        padding-top: 2rem !important;
+        padding-bottom: 2rem !important;
+    }
+    .started-bg-icon {
+        max-width: 150px;
+    }
+    .footer_row{
+        gap: 15px;
+    }
+    .footer_title-left{
+        justify-content: space-between;
+    }
+    .footer_title-right{
+        flex-direction: unset !important;
+        align-items: center !important;
+    }
+    .footer_right-network{
+        padding-left: 15px;
+    }
+    .director_bg-icon1{
+        max-width: 85px;
+    }
+    .clients_title-h2{
+        padding-bottom: 2rem !important;
+    }
+    .client-links1{
+        max-width: 103px;
+    }
+    .client-links2{
+        max-width: 114px;
+    }
+    .client-links3{
+        max-width: 112px;
+    }
+    .client-links4{
+        max-width: 103px;
+    }
+    .client-links5{
+        max-width: 61px;
+    }
+    .clients_bg-icon1 {
+        max-width: 130px;
+    }
+    .contact_header-icon1 {
+        left: 0px !important;
+        max-width: 82px;
+    }
+    .contact_header-icon2 {
+        bottom: -47px !important;
+        max-width: 82px;
+    }
+}
+@media (max-width: 684px){
+    .header-bg-icon2 {
+        right: 170px !important;
+    }
+    .allmain_title {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .started_title-h2 {
+        padding-left: 15px !important;
+    }
+    .started-bg-icon {
+        max-width: 130px;
+    }
+}
+@media (max-width: 600px){
+    .header-bg-icon2 {
+        right: 120px !important;
+    }
+    .started_title{
+        flex-direction: column;
+        align-items: center;
+    }
+    .started-bg-icon {
+        max-width: 175px;
+    }
+}
+@media (max-width: 540px){
+    .nav{
+        padding-top: 15px !important;
+    }
+    .header {
+        padding-top: 80px;
+        padding-bottom: 195px;
+    }
+    .header_title-h1 {
+        font-size: 50px;
+        line-height: 50px;
+        max-width: 325px;
+        padding-bottom: 18px;
+    }
+    .header-bg-icon2 {
+        right: 100px !important;
+    }
+    .header_title-text {
+        padding-top: 0 !important;
+    }
+    .clients_bg-icon1 {
+        max-width: 105px;
+    }
+    .contact_header-icon1 {
+        max-width: 0;
+    }
+    .footer_middle-links{
+        padding-left: 0 !important;
+    }
+    .footer_title-middle{
+        padding-left: 0 !important;
+    }
+}
+@media (max-width: 425px){
+    .header-bg-icon2 {
+        right: 34px !important;
+    }
+    .teams_title-h2 {
+        padding-bottom: 50px;
+        max-width: 300px;
+    }
+    .teams {
+        padding: 90px 0;
+    }
+    .started-bg-icon {
+        max-width: 145px;
+    }
+    .clients_bg-icon1 {
+        max-width: 0;
+    }
+    .teams_title-box-h5 {
+        text-align: start;
+    }
+    .footer_bottom-text {
+        margin-bottom: 0 !important;
+    }
+}
+@media(max-width:375px){
+    .header_title-h1 {
+        font-size: 40px;
+        line-height: 40px;
+        max-width: 270px;
+    }    
+    .header {
+        padding-top: 71px;
+        padding-bottom: 155px;
+    }
+    .header-bg-icon2 {
+        right: 8px !important;
+    }
+    .header {
+        padding-bottom: 180px;
+    }
+    .teams_bg-icon {
+        max-width: 0;
+    }
+    .started-bg-icon {
+        max-width: 0;
+    }
+    .footer_title-left {
+        justify-content: unset;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .footer_title-right {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 8px;
+    }
+    .footer_right-network {
+        padding-left: 0;
+    }
+    .about_header-bg-icon{
+        max-width: 90px;
+    }
+    .director_bg-icon1 {
+        max-width: 0;
+    }
+    .director{
+        padding-top: 0 !important;
+    }
+}
+@media (max-width: 320px){
+    .header-bg-icon2 {
+        right: 9px !important;
+        max-width: 300px;
+    }
+    .started_title-h2 {
+        padding-left: 0px !important;
+        font-size: 27px;
+    }
+}
